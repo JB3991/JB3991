@@ -1,7 +1,7 @@
-### Hi there 👋
-## I'm JB 🤪
+## Hi there 👋
+#### I'm JB 🤪
 
-🌱 I’m currently learning Swift!
+🌱 I’m currently learning Swift! <br />
 🤔 I’m looking for help with everything.
 
 <!--
