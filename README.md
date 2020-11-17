@@ -1,5 +1,5 @@
 ## Hi there 👋
-#### I'm JB 🤪
+#### I'm JB 🤪 and i'm new here. 
 
 🌱 I’m currently learning Swift! <br />
 🤔 I’m looking for help with everything.
