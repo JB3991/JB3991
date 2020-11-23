@@ -2,8 +2,8 @@
 #### I'm JB 🤪 and i'm new here. 
 
 🌱 I’m currently learning Swift! <br />
-🤔 I’m looking for help with everything.
-
+🤔 I’m looking for help with everything.<br />
+💬 Any Feedback would be greatly appreciated.
 <!--
 **JB3991/JB3991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
