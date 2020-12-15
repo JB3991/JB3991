@@ -4,7 +4,7 @@
 🌱 I’m currently learning Swift! <br />
 🤔 I’m looking for help, with everything.<br />
 💬 You miss 100% of the shots you don't take – Wayne Gretzky – Michael Scott<br />
-🥅 2021 goal: Try and secure my iOS role 
+🥅 2021 goal: Try and secure a Role within IT
 <!--
 **JB3991/JB3991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
