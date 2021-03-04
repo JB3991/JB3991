@@ -1,7 +1,7 @@
 ## Hi there 👋
 #### I'm JB 🤪 and i'm new here. 
 
-🌱 I’m currently learning Swift! <br />
+🌱 I’m currently learning Swift & Python! <br />
 🤔 I’m looking for help, with everything.<br />
 💬 You miss 100% of the shots you don't take – Wayne Gretzky – Michael Scott<br />
 🥅 2021 goal: Try and secure a Role within IT
