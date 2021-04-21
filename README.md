@@ -1,10 +1,10 @@
 ## Hi there 👋
-#### I'm JB 🤪 and i'm new here. 
+#### I'm JB 🤪 
 
 🌱 I’m currently learning Swift & Python! <br />
 🤔 I’m looking for help, with everything.<br />
 💬 You miss 100% of the shots you don't take – Wayne Gretzky – Michael Scott<br />
-🥅 2021 goal: Try and secure a Role within IT
+🥅 2021 goal: Try and secure my First Dev Job
 <!--
 **JB3991/JB3991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
